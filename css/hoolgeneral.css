@@ -1,0 +1,45 @@
+.articlebody { 
+    position: absolute;
+    top: 120px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.articlebody article {
+    border: 2px solid black;
+    display: inline-flex;
+    margin: 20px 10px;
+    border-radius: 1cm;
+}
+
+.articlebody h2 {
+    text-align: center;
+}
+
+.articlebody img {
+    border: 4px solid blue;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    transition: 1s ease;
+}
+
+.articlebody img:hover {
+    border-radius: 10%;
+    transform: scale(1.2);
+}
+
+.articlebody p{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.articlebody a{
+    padding-left: 260px;
+    font-weight: bold;
+    transition: 1s ease;
+}
+
+.articlebody a:hover {
+    color: red;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/navbar.css">
+    <link rel="stylesheet" href="/css/forums.css">
+    <link rel="stylesheet" href="/css/background.css">
+</head>
+<body>
+    <a href="#mainbody" id="logo"><img src="/images/logo.png" alt="Home" width="132.25px" height="121px"></a>
+    <nav class="navbar">
+        <ul>
+            <li><a href="/index.html#mainbody">Home</a></li>
+            <li><a href="forums.html">Forums</a></li>
+            <li><a href="hoolgeneral.html">Food</a>
+                <ul id="submenu">
+                    <li><a href="hoolgeneral.html">General</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=sEtRGXU-Mbg&ab_channel=CLCooking" target="_blank">Video</a></li>
+                </ul>
+            </li>
+            <li><a href="hoolhaih.html">Search</a></li>
+        </ul>
+    </nav>
+    <div class="forums">
+        <h2>Simple Forum</h2>
+        <form id="submitforum">
+            <textarea id="postforum" placeholder="Type your post here..."></textarea>
+            <button type="submit">Post</button>
+        </form>
+     
+        <ul id="listforum" class="listforum"></ul>
+    </div>
+</body>
+</html>
