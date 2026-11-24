@@ -1,19 +1,35 @@
 {
- "key": "249c8b34",
- "stars": 1,
- "contributions": 303,
+ "key": "98a342b9",
+ "stars": 0,
+ "contributions": 307,
  "repos": 3,
  "followers": 1,
  "languages": [
   [
+   "TypeScript",
+   3586965
+  ],
+  [
+   "JavaScript",
+   2893956
+  ],
+  [
+   "C#",
+   1605566
+  ],
+  [
+   "CSS",
+   591762
+  ],
+  [
    "HTML",
-   169
+   51629
   ]
  ],
  "days": [
   [
    {
-    "c": 17,
+    "c": 18,
     "day": 8,
     "today": false
    },
@@ -97,11 +113,15 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 2,
     "day": 24,
     "today": true
    },
-   null,
+   {
+    "c": 5,
+    "day": 25,
+    "today": false
+   },
    null,
    null,
    null
@@ -127,7 +147,7 @@
    "url": "https://github.com/1pseftis/1pseftis",
    "text": "Config files for my GitHub profile.",
    "fork": false,
-   "stars": 1,
+   "stars": 0,
    "language": null,
    "topics": [
     "config",
