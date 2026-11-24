@@ -29,16 +29,16 @@
     "avatarShape": "pill",
     "chips": [
       {
-        "icon": "lightbulb",
-        "label": "Larp"
+        "icon": "theater_comedy",
+        "label": "Full-time larper"
       },
       {
         "icon": "psychology",
-        "label": "Everything"
+        "label": "Vibe architect"
       },
       {
-        "icon": "widgets",
-        "label": "Anything"
+        "icon": "history",
+        "label": "Ex-coder"
       }
     ]
   },
@@ -46,29 +46,34 @@
     "title": "What can I larp?",
     "items": [
       {
-        "icon": "code",
-        "label": "Developing and Design"
+        "icon": "record_voice_over",
+        "label": "Talking like a 10x engineer"
       },
       {
-        "icon": "bolt",
-        "label": "Learn as I move"
+        "icon": "history_edu",
+        "label": "Larp today. Forget tomorrow."
       },
       {
-        "icon": "school",
-        "label": "Larp afterwards."
+        "icon": "rocket_launch",
+        "label": "Shipping code I didn't write"
       }
     ]
   },
   "stack": {
-    "title": "Tech stack",
+    "title": "Stuff I claim to know",
     "groups": [
       {
-        "title": "Main",
+        "title": "Where it all started",
         "items": [
           {
-            "icon": "brand:python",
-            "label": "Python"
-          },
+            "icon": "lightbulb",
+            "label": "Interest in coding"
+          }
+        ]
+      },
+      {
+        "title": "Larp-certified",
+        "items": [
           {
             "icon": "brand:typescript",
             "label": "TypeScript"
@@ -84,7 +89,7 @@
         ]
       },
       {
-        "title": "Tools",
+        "title": "Tools I open sometimes",
         "items": [
           {
             "icon": "brand:git",
@@ -100,7 +105,7 @@
           },
           {
             "icon": "brand:github",
-            "label": "Github itself"
+            "label": "GitHub (rarely)"
           }
         ]
       }
@@ -119,18 +124,18 @@
     "fork": "Fork"
   },
   "stats": {
-    "title": "GitHub activity",
+    "title": "Proof of life",
     "stars": "Stars earned",
     "contributions": "Contributions this year",
     "repos": "Public repos",
     "followers": "Followers",
     "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
-    "languages": "Languages across my repositories",
-    "showLanguages": false
+    "languages": "Languages I definitely wrote myself",
+    "showLanguages": true
   },
   "streak": {
-    "title": "Streak",
+    "title": "Larp streak",
     "current": "Current streak",
     "longest": "Longest this year",
     "days": "days"
