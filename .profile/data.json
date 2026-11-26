@@ -1,7 +1,7 @@
 {
- "key": "a720dd1a",
+ "key": "b2f39a6e",
  "stars": 0,
- "contributions": 307,
+ "contributions": 297,
  "repos": 3,
  "followers": 1,
  "languages": [
@@ -23,28 +23,28 @@
   ],
   [
    "HTML",
-   51629
+   51462
   ]
  ],
  "days": [
   [
    {
-    "c": 18,
+    "c": 14,
     "day": 8,
     "today": false
    },
    {
-    "c": 27,
+    "c": 23,
     "day": 9,
     "today": false
    },
    {
-    "c": 12,
+    "c": 11,
     "day": 10,
     "today": false
    },
    {
-    "c": 33,
+    "c": 32,
     "day": 11,
     "today": false
    },
@@ -127,7 +127,11 @@
     "day": 26,
     "today": true
    },
-   null,
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
    null
   ]
  ],
